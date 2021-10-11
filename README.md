@@ -10,4 +10,4 @@ The following is a repository containing solutions of the Final Assignment for t
 
 Code written by: Enrico Calleris
 
-Reproduced part of the code have been properly cited.
+Reproduced parts of the code have been properly cited.
